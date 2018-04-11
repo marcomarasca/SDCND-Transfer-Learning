@@ -2,3 +2,7 @@ data
 models
 .ipynb_checkpoints
 bottlenecks
+inception-100.zip
+resnet-100.zip
+vgg-100.zip
+*.p
